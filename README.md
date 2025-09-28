@@ -1,7 +1,7 @@
-```markdown
+```
 # Advanced Security Testing Toolkit
 
-Developed by: **Red**  
+Developed by: #Red  
 Contact: [Red Rooted Ghost on Telegram](https://t.me/Red_Rooted_Ghost)
 
 ## Features
@@ -13,7 +13,7 @@ Contact: [Red Rooted Ghost on Telegram](https://t.me/Red_Rooted_Ghost)
 
 ##  Installation
 
-```bash
+```
 git clone https://github.com/Dark-Ghost-x/infosec-wordlists.git
 cd infosec-wordlists
 ```
